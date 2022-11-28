@@ -1,5 +1,7 @@
 # IBM-Data-Science-Professional-Certificate
 
+[Certificate Link](https://coursera.org/share/3c79fa5386b3aec34b9651648e8b07dd)
+
 These are some of the project notebooks that I have gotten to work on in my IBM Data Science Professional Certificate course:
 * Analyzing US Economic Data and Building a Dashboard + index.html
   * More of a warm-up exercise that demonstrates ability to read a csv, use super-basic pandas, and plot using Bokeh.
