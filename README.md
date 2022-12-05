@@ -4,7 +4,7 @@
 
 In order of involvement and self-guided completion, these are some of the project notebooks that I have gotten to work on in my IBM Data Science Professional Certificate course:
 * [Capstone Project: Car Insurance Claim Prediction Model](https://github.com/jionkim00/IBM-Data-Science-Professional-Certificate/blob/main/capstone-car-insurance-claims.ipynb)
-  * Decision Tree and Logistic Regression are utilized to build models that predict
+  * Decision Tree and Logistic Regression are utilized to build models that predict cars that will file an insurance claim in 6 months based on given features.
   * Due to overfitting, the decision tree won out and was used to predict a total of 3,096 claims out of 39,063.
   * Conclusion: We could build a pretty accurate model when using both the decision tree and logistic regression models; however, the latter suffered from over fitting. 
 * [Machine Learning with Python_ The Best Classifier ( Loan Repayments and Defaults )](https://github.com/jionkim00/IBM-Data-Science-Professional-Certificate/blob/main/Machine%20Learning%20with%20Python_%20The%20Best%20Classifier.ipynb)
